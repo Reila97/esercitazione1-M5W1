@@ -45,7 +45,7 @@
 
 // 7. Un componente React può venire creato in tre modi: come funzione, classe o interfaccia.
 
-// Vero
+// Falso 
 
 
 
